@@ -71,14 +71,12 @@ focused on developing a technical solution to address unemployment.
 ---
 ## **✅ REFERENCES**
 
-**Meagan Hamman**
-
+**Meagan Hamman**<br>
 Cape Peninsula University of Technology<br>
 HammanM@cput.ac.za | 021 460 3752<br>
 Lecturer at CPUT 
  
-**Palesa Monyatsi**
-
+**Palesa Monyatsi**<br>
 Braided by Sekae<br>
 Pearlpalesa74@gmail.com | 081 756 0407<br>
 Client 
