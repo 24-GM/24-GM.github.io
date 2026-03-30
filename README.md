@@ -2,11 +2,6 @@
 
 ---
 
-<table>
-<tr>
-
-<td width="35%" valign="top">
-
 ## **📞 CONTACT**
 
 📞 064 657 6303
@@ -53,10 +48,6 @@ Cape Peninsula University of Technology
 - Adobe InDesign
 
 ---
-
-</td>
-
-<td width="65%" valign="top" >
 
 # **GOITSEMANG PATIENCE MAROKOANE**
 
@@ -109,11 +100,6 @@ Client
 **University of the Western Cape** – Coached and supervised primary school youth 
 players on Youth Day, designing fun drills and mini-games to encourage teamwork 
 and skills development.
-
-</td>
-
-</tr>
-</table>
 
 ## **🎬 MOCK NTERVIEW**
 
