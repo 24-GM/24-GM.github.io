@@ -1,19 +1,18 @@
-# Goitsemang Patience Marokoane
+# **GOITSEMANG PATIENCE MAROKOANE**
 
----
+UX/UI DESIGNER \| WEB DEVELOPER \| ICT STUDENT
 
-## **📞 CONTACT**
+📞 064 657 6303 | 📧 240291573@mycput.ac.za | 📍 Cape Town, South Africa  
 
-📞 064 657 6303
-
-📧 240291573@mycput.ac.za
-
-📍 Cape Town, South Africa  
+I am an aspiring UX/UI designer / Web developer specialising in intuitive 
+digital experiences. I am constantly on a mission to learn and grow, and I 
+enjoy creating minimal and impactful designs. I combine creativity, structure, 
+and leadership to bring clarity and precision to every project. 
 
 ---
 
 ## **🌐 PORTFOLIO LINK**
-https://gpm-digitalconcepts.netlify.app/
+[[Visit my Portfolio](https://gpm-digitalconcepts.netlify.app/)]
 
 ---
 
@@ -49,24 +48,14 @@ Cape Peninsula University of Technology
 
 ---
 
-# **GOITSEMANG PATIENCE MAROKOANE**
-
-UX/UI DESIGNER | WEB DEVELOPER | ICT STUDENT
-
-I am an aspiring UX/UI designer / Web developer specialising in intuitive 
-digital experiences. I am constantly on a mission to learn and grow, and I 
-enjoy creating minimal and impactful designs. I combine creativity, structure, 
-and leadership to bring clarity and precision to every project. 
-
----
-
 ## **🚀 PROJECTS**
 
 ### **Web Development**
 - Developed a simple Vue.js web application for a coffee shop frontend.
 - Built a hair braiding business website with frontend, backend, and database 
 integration.
-- Created a login and sign-up system linked to a shopping cart feature. 
+- Created a login and sign-up system linked to a shopping cart feature.
+- Created a wellness web application for AfterCare using React, a wellness center for professionals.
 
 ### **Brand Design**
 - Designed logos for my personal brand and fictional brands. 
@@ -105,7 +94,4 @@ and skills development.
 
 ## **🎬 MOCK NTERVIEW**
 
-<video width="200" controls>
-  <source src="Mock-Interview(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
+[Watch my Mock Interview Video](Mock-Interview(1).mp4)
