@@ -93,4 +93,7 @@ and skills development.
 
 ## **🎬 MOCK NTERVIEW**
 
-[Watch my Mock Interview Video](Mock-Interview(1).mp4)
+<video width="400" controls>
+  <source src="Mock-Interview(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
