@@ -55,7 +55,7 @@ Cape Peninsula University of Technology
 - Built a hair braiding business website with frontend, backend, and database 
 integration.
 - Created a login and sign-up system linked to a shopping cart feature.
-- Created a wellness web application for AfterCare using React, a wellness center for professionals.
+- Created a web application for AfterCare, a wellness centre for professionals, using React.
 
 ### **Brand Design**
 - Designed logos for my personal brand and fictional brands. 
