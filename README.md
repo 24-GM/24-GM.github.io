@@ -125,9 +125,9 @@ and skills development.
 ### **Evidence:**
 
 <p align="center">
-  <img src="Evidence/ProjectCharter-1.png" width="48%" alt="Agile Project Charter - Part 1" />
-  <img src="Evidence/ProjectCharter-2.png" width="48%" alt="Agile Project Charter - Part 2" />
-  <img src="Evidence/ProjectCharter-3.png" width="48%" alt="Agile Project Charter - Part 2" />
+  <img src="Evidence/ProjectCharter-1.png" width="30%" alt="Agile Project Charter - Part 1" />
+  <img src="Evidence/ProjectCharter-2.png" width="30%" alt="Agile Project Charter - Part 2" />
+  <img src="Evidence/ProjectCharter-3.png" width="30%" alt="Agile Project Charter - Part 2" />
 </p>
 
 ### **Reflection:**
@@ -141,9 +141,9 @@ and skills development.
 ### **Evidence:**
 
 <p align="center">
-  <img src="Evidence/UserStories-1.png" width="48%" alt="User Stories and Tasks - Part 1" />
-  <img src="Evidence/UserStories-2.png" width="48%" alt="User Stories and Tasks - Part 2" />
-  <img src="Evidence/UserStories-3.png" width="48%" alt="User Stories and Tasks  - Part 2" />
+  <img src="Evidence/UserStories-1.png" width="30%" alt="User Stories and Tasks - Part 1" />
+  <img src="Evidence/UserStories-2.png" width="30%" alt="User Stories and Tasks - Part 2" />
+  <img src="Evidence/UserStories-3.png" width="30%" alt="User Stories and Tasks  - Part 2" />
 </p>
 
 ### **Reflection:**
@@ -157,9 +157,7 @@ and skills development.
 ### **Evidence:**
 
 <p align="center">
-  <img src="Evidence/UserStories-1.png" width="48%" alt="User Stories - Part 1" />
-  <img src="Evidence/UserStories-2.png" width="48%" alt="User Stories - Part 2" />
-  <img src="Evidence/UserStories-3.png" width="48%" alt="User Stories - Part 2" />
+  <img src="Evidence/Trello.png" width="50%" alt="Trello Board" />
 </p>
 
 ### **Reflection:**
@@ -173,9 +171,9 @@ and skills development.
 ### **Evidence:**
 
 <p align="center">
-  <img src="Evidence/UserStories-1.png" width="48%" alt="User Stories - Part 1" />
-  <img src="Evidence/UserStories-2.png" width="48%" alt="User Stories - Part 2" />
-  <img src="Evidence/UserStories-3.png" width="48%" alt="User Stories - Part 2" />
+  <img src="Evidence/Logbook-1.png" width="30%" alt="Sprint Backlog - Part 1" />
+  <img src="Evidence/Logbook-2.png" width="30%" alt="Sprint Backlog - Part 2" />
+  <img src="Evidence/Logbook-3.png" width="30%" alt="Sprint Backlog - Part 2" />
 </p>
 
 ### **Reflection:**
@@ -189,9 +187,9 @@ and skills development.
 ### **Evidence:**
 
 <p align="center">
-  <img src="Evidence/UserStories-1.png" width="48%" alt="User Stories - Part 1" />
-  <img src="Evidence/UserStories-2.png" width="48%" alt="User Stories - Part 2" />
-  <img src="Evidence/UserStories-3.png" width="48%" alt="User Stories - Part 2" />
+  <img src="Evidence/Daily-1.png" width="30%" alt="Agile Logbook - Part 1" />
+  <img src="Evidence/Daily-2.png" width="30%" alt="Agile Logbook - Part 2" />
+  <img src="Evidence/Daily-3.png" width="30%" alt="Agile Logbook - Part 2" />
 </p>
 
 ### **Reflection:**
