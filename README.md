@@ -123,28 +123,79 @@ and skills development.
 ## **AGILE PROJECT CHARTER**
 
 ### **Evidence:**
+
 <p align="center">
-  <img src="images/agile-charter-1.png" width="48%" alt="Agile Project Charter - Part 1" />
-  <img src="images/agile-charter-2.png" width="48%" alt="Agile Project Charter - Part 2" />
+  <img src="Evidence/ProjectCharter-1.png" width="48%" alt="Agile Project Charter - Part 1" />
+  <img src="Evidence/ProjectCharter-2.png" width="48%" alt="Agile Project Charter - Part 2" />
+  <img src="Evidence/ProjectCharter-3.png" width="48%" alt="Agile Project Charter - Part 2" />
 </p>
+
 ### **Reflection:**
+**Situation:** As part of the Work Readiness Training at Cape Peninsula University of Technology, we were required to create a digital portfolio to showcase our work readiness activities. This included presenting our CV, mock interview video, and reflections using Markdown. To achieve this, we used GitHub Pages to publish and host our portfolio so that it could be accessed through a public web link.<br>
+**Task:** My task was to deploy my portfolio using GitHub Pages so that it could be accessed through a public link. This required connecting my GitHub repository to GitHub Pages and ensuring that my Markdown content was displayed correctly as a website.<br>
+**Action:** I followed the instructions that were provided and created a GitHub repository, uploaded my CV files, and enabled GitHub Pages to publish the site. I then later added more content for my portfolio and ensured that it included my CV, mock interview video, and reflections, and that the content was properly formatted using Markdown.<br>
+**Result:** Publishing my portfolio on GitHub Pages was not difficult at all and it is a quick and straightforward process. It allowed me to create a professional online presence and share my work through a simple web link. This experience helped me understand how developers deploy and host content online, and it improved my skills in using GitHub as a professional development tool.
 
 ## **USER STORIES AND TASKS**
 
 ### **Evidence:**
+
+<p align="center">
+  <img src="Evidence/UserStories-1.png" width="48%" alt="User Stories and Tasks - Part 1" />
+  <img src="Evidence/UserStories-2.png" width="48%" alt="User Stories and Tasks - Part 2" />
+  <img src="Evidence/UserStories-3.png" width="48%" alt="User Stories and Tasks  - Part 2" />
+</p>
+
 ### **Reflection:**
+**Situation:** As part of the Work Readiness Training at Cape Peninsula University of Technology, we were required to create a digital portfolio to showcase our work readiness activities. This included presenting our CV, mock interview video, and reflections using Markdown. To achieve this, we used GitHub Pages to publish and host our portfolio so that it could be accessed through a public web link.<br>
+**Task:** My task was to deploy my portfolio using GitHub Pages so that it could be accessed through a public link. This required connecting my GitHub repository to GitHub Pages and ensuring that my Markdown content was displayed correctly as a website.<br>
+**Action:** I followed the instructions that were provided and created a GitHub repository, uploaded my CV files, and enabled GitHub Pages to publish the site. I then later added more content for my portfolio and ensured that it included my CV, mock interview video, and reflections, and that the content was properly formatted using Markdown.<br>
+**Result:** Publishing my portfolio on GitHub Pages was not difficult at all and it is a quick and straightforward process. It allowed me to create a professional online presence and share my work through a simple web link. This experience helped me understand how developers deploy and host content online, and it improved my skills in using GitHub as a professional development tool.
 
 ## **PRODUCT BACKLOG**
 
 ### **Evidence:**
+
+<p align="center">
+  <img src="Evidence/UserStories-1.png" width="48%" alt="User Stories - Part 1" />
+  <img src="Evidence/UserStories-2.png" width="48%" alt="User Stories - Part 2" />
+  <img src="Evidence/UserStories-3.png" width="48%" alt="User Stories - Part 2" />
+</p>
+
 ### **Reflection:**
+**Situation:** As part of the Work Readiness Training at Cape Peninsula University of Technology, we were required to create a digital portfolio to showcase our work readiness activities. This included presenting our CV, mock interview video, and reflections using Markdown. To achieve this, we used GitHub Pages to publish and host our portfolio so that it could be accessed through a public web link.<br>
+**Task:** My task was to deploy my portfolio using GitHub Pages so that it could be accessed through a public link. This required connecting my GitHub repository to GitHub Pages and ensuring that my Markdown content was displayed correctly as a website.<br>
+**Action:** I followed the instructions that were provided and created a GitHub repository, uploaded my CV files, and enabled GitHub Pages to publish the site. I then later added more content for my portfolio and ensured that it included my CV, mock interview video, and reflections, and that the content was properly formatted using Markdown.<br>
+**Result:** Publishing my portfolio on GitHub Pages was not difficult at all and it is a quick and straightforward process. It allowed me to create a professional online presence and share my work through a simple web link. This experience helped me understand how developers deploy and host content online, and it improved my skills in using GitHub as a professional development tool.
 
 ## **SPRINT BACKLOG**
 
 ### **Evidence:**
+
+<p align="center">
+  <img src="Evidence/UserStories-1.png" width="48%" alt="User Stories - Part 1" />
+  <img src="Evidence/UserStories-2.png" width="48%" alt="User Stories - Part 2" />
+  <img src="Evidence/UserStories-3.png" width="48%" alt="User Stories - Part 2" />
+</p>
+
 ### **Reflection:**
+**Situation:** As part of the Work Readiness Training at Cape Peninsula University of Technology, we were required to create a digital portfolio to showcase our work readiness activities. This included presenting our CV, mock interview video, and reflections using Markdown. To achieve this, we used GitHub Pages to publish and host our portfolio so that it could be accessed through a public web link.<br>
+**Task:** My task was to deploy my portfolio using GitHub Pages so that it could be accessed through a public link. This required connecting my GitHub repository to GitHub Pages and ensuring that my Markdown content was displayed correctly as a website.<br>
+**Action:** I followed the instructions that were provided and created a GitHub repository, uploaded my CV files, and enabled GitHub Pages to publish the site. I then later added more content for my portfolio and ensured that it included my CV, mock interview video, and reflections, and that the content was properly formatted using Markdown.<br>
+**Result:** Publishing my portfolio on GitHub Pages was not difficult at all and it is a quick and straightforward process. It allowed me to create a professional online presence and share my work through a simple web link. This experience helped me understand how developers deploy and host content online, and it improved my skills in using GitHub as a professional development tool.
 
 ## **AGILE LOGBOOK**
 
 ### **Evidence:**
+
+<p align="center">
+  <img src="Evidence/UserStories-1.png" width="48%" alt="User Stories - Part 1" />
+  <img src="Evidence/UserStories-2.png" width="48%" alt="User Stories - Part 2" />
+  <img src="Evidence/UserStories-3.png" width="48%" alt="User Stories - Part 2" />
+</p>
+
 ### **Reflection:**
+**Situation:** As part of the Work Readiness Training at Cape Peninsula University of Technology, we were required to create a digital portfolio to showcase our work readiness activities. This included presenting our CV, mock interview video, and reflections using Markdown. To achieve this, we used GitHub Pages to publish and host our portfolio so that it could be accessed through a public web link.<br>
+**Task:** My task was to deploy my portfolio using GitHub Pages so that it could be accessed through a public link. This required connecting my GitHub repository to GitHub Pages and ensuring that my Markdown content was displayed correctly as a website.<br>
+**Action:** I followed the instructions that were provided and created a GitHub repository, uploaded my CV files, and enabled GitHub Pages to publish the site. I then later added more content for my portfolio and ensured that it included my CV, mock interview video, and reflections, and that the content was properly formatted using Markdown.<br>
+**Result:** Publishing my portfolio on GitHub Pages was not difficult at all and it is a quick and straightforward process. It allowed me to create a professional online presence and share my work through a simple web link. This experience helped me understand how developers deploy and host content online, and it improved my skills in using GitHub as a professional development tool.
